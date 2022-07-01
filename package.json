@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-router-dom": "^6.3.0",
+    "subscriptions-transport-ws": "^0.11.0"
+  }
+}
